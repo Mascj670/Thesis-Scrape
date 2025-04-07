@@ -1,6 +1,6 @@
 # Thesis-Scrape
 
-For my thesis I am rebuilding a search engine using a vector database RAG pipeline. Apart of this project entailed me scraping the New School Archive for past theses. 
+For my thesis I am rebuilding a search engine using a vector database RAG pipeline. A part of this project entailed me scraping the New School Archive for past theses. 
 
 PSA: I cannot make this code public as I have already recieved extensive pushback from the school and faculty for this project... 
 
